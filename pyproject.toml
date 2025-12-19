@@ -1,0 +1,12 @@
+[project]
+name = "yamd"
+version = "0.1.0"
+description = "Yet Another Media Downloader"
+authors=[{ name = "Flavien Lallemant" }]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
