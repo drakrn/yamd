@@ -8,4 +8,4 @@ yamd is a personal Python project to download media from web URLs and convert th
 
 
 ## License
-This project is released under the MIT license - check the [LICENSE.txt]() file for details.
+This project is released under the MIT license - check the [LICENSE.txt](LICENSE.txt) file for details.
