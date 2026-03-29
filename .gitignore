@@ -1,15 +1,34 @@
 # Python-generated files
 __pycache__/
 *.py[cod]
-build/
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
 dist/
-wheels/
-*.egg-info
+build/
+.eggs/
 
-# Virtual environments
-.venv
+# uv
+.venv/
+uv.lock 
+
+# Environment
+.env
+*.env.local
 
 # Tools
 .pytest_cache/
-.mypy_cache/
 .coverage
+htmlcov/
+coverage.xml
+
+.mypy_cache/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
